@@ -22,6 +22,10 @@ package com.example.hello;
 import android.os.Bundle;
 import org.apache.cordova.*;
 
+/**
+ * MainActivity，加載index.html
+ *
+ */
 public class MainActivity extends CordovaActivity
 {
     @Override
